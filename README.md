@@ -5,4 +5,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ronakdhakad/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ronakdhakad/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ronakdhakad/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
