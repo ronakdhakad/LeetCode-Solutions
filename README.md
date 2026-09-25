@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ronakdhakad/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [2544-alternating-digit-sum](https://github.com/ronakdhakad/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 ## Array
 |  |
 | ------- |
