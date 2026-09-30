@@ -12,6 +12,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/ronakdhakad/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/ronakdhakad/LeetCode-Solutions/tree/master/0136-single-number) |
+| [1929-concatenation-of-array](https://github.com/ronakdhakad/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ronakdhakad/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ronakdhakad/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
