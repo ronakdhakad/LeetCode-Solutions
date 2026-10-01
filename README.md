@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ronakdhakad/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ronakdhakad/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/ronakdhakad/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [2544-alternating-digit-sum](https://github.com/ronakdhakad/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 ## Array
 |  |
@@ -44,4 +45,16 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/ronakdhakad/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ronakdhakad/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ronakdhakad/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ronakdhakad/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
